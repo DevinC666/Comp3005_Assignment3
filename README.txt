@@ -1,6 +1,6 @@
 Name: Shuo Chen
 Student ID: 101222045
-Video link:
+Video link: https://youtu.be/Uybl9tTiMLs
 
 Project files：
 	sql/schema.txt
